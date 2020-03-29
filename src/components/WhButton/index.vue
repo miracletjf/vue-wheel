@@ -6,8 +6,8 @@
 export default {
   name: 'WhButton',
   props: {
-  },
-};
+  }
+}
 </script>
 
 <style lang="scss">
